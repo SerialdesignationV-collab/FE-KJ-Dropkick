@@ -1643,3 +1643,4 @@ function animation(character)
 	end
 end
 animation(game.Players.LocalPlayer.Character)
+stopRushEffect()
